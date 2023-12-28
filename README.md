@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trishita-26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding,reading books & scrolling insta
+- 🌱 I’m currently learning web dev & blockchain dev
+- 💞️ I’m looking to collaborate on top leading tech company
 - 📫 How to reach me ... insta @trishita._.26
 
 <!---
