@@ -1,6 +1,6 @@
 👋 Hi, I’m @trishita-26  
 👀 I’m interested in coding, reading books & learning new things  
-🌱 I’m currently learning Data Engineering, Data Science & DevOps  
+🌱 I’m currently learning Data Engineering, Data Science & AI 
 💞️ I’m looking to collaborate with top leading tech companies  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trisitaghosh26/)
 
